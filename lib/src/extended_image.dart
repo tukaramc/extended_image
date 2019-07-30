@@ -794,10 +794,10 @@ class _ExtendedImageState extends State<ExtendedImage> with ExtendedImageState {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: <Widget>[
                   _getIndicator(context),
-                  SizedBox(
-                    width: 5.0,
-                  ),
-                  Text("loading...")
+//                   SizedBox(
+//                     width: 5.0,
+//                   ),
+//                   Text("loading...")
                 ],
               ),
             );
